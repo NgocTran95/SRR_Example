@@ -1,0 +1,26 @@
+{
+  "name": "ssr_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "start": "nodemon --inspect-brk ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgocTran95/SRR_Example.git"
+  },
+  "keywords": [
+    "node example",
+    "node"
+  ],
+  "author": "Ngoc Tran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
